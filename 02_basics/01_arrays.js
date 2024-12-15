@@ -1,13 +1,13 @@
 // array
-
+const aa=[34,545,2312,45,23]
 const myArr = [0, 1, 2, 3, 4, 5]
-const myHeors = ["shaktiman", "naagraj"]
+const myHeors = ["Numan", "Luqman"]
 
 const myArr2 = new Array(1, 2, 3, 4)
 // console.log(myArr[1]);
 
 // Array methods
-
+console.log(aa)
 // myArr.push(6)
 // myArr.push(7)
 // myArr.pop()
